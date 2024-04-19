@@ -1,0 +1,2 @@
+# -Information-System-for-Nutritional-Supplements-Store
+The system is designed to facilitate the management of products, including the addition, editing, deletion, and viewing of nutritional supplements in a store. It uses the PySimpleGUI library for the graphical user interface (GUI) and SQLite for data management, allowing for the creation, updating, and deletion of supplement records in a local DB.
